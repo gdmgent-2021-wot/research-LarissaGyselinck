@@ -39,8 +39,12 @@ module.exports = {
       },
       {
         text: 'Presentaties',
-        link: '/presentaties/'
-      }
+        link: '/presentaties/',
+      },
+      {
+        text: 'Bronnen',
+        link: '/bronnen/',
+      },
     ],
     // sidebar: {
     //   '/guide/': [
