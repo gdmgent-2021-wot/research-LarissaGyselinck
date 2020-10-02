@@ -10,7 +10,9 @@
   "repository": "https://github.com/gdmgent-2021-wot/research-LarissaGyselinck/research",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "license": "MIT",
   "devDependencies": {
