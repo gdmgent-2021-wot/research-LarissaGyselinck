@@ -2,7 +2,7 @@
   "name": "research",
   "version": "0.0.1",
   "description": "Automation",
-  "main": "index.js",
+  "main": "index.md",
   "authors": {
     "name": "Larissa Gyselinck",
     "email": "larigyse@student.arteveldehs.be"
@@ -10,8 +10,7 @@
   "repository": "https://github.com/gdmgent-2021-wot/research-LarissaGyselinck/research",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src",
-    "docs:build": "vuepress build docs"
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
