@@ -45,6 +45,10 @@ module.exports = {
         text: 'Bronnen',
         link: '/bronnen/',
       },
+      {
+        text: 'Project',
+        link: '/project/',
+      },
     ],
     // sidebar: {
     //   '/guide/': [
