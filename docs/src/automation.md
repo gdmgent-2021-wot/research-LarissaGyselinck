@@ -31,6 +31,26 @@ Er zijn heel veel voordelen aan domotica of automatisering. Het is duurzaam en k
 Domotica brengt veel comfort, je kan uw hele woning besturen met één klik en vanuit je zetel.
 Nog een belangrijkrijk voordeel is de veiligheid, met domotica heb je veel meer mogelijkheden voor veiligheid.
 
-## Nadelen
+## Wat kan je doen met automatisering?
+Je kan super veel dingen doen met automatisering. Niet iedereen gebruikt al veel automatisering maar eigenlijk kunnen veel dagdagelijkse dingen geautomatiseerd worden. Er bestaat bijvoorbeeld een app waarbij je sms'jes kan plannen, je schrijft je sms'je, geeft in wanneer deze precies verzend moet worden. Wanneer het sms'je verzonden is krijg je een melding.
 
-## Bekende voorbeelden
+![Schedule sms app](sms.png)
+
+Net zoals een sms'je inplannen kan je ook mails inplannen, dit verloopt op exact dezelfde manier als de smsjes. Het inplannen bestaat zelfs al voor tweets op twitter.
+
+Je kan een app downloaden waar je jouw wekelijkse boodschappen in zet en deze worden wekelijkse automatisch geleverd zodat je voor die boodschappen niet meer naar de winkel moet. Dit is handig aangezien je deze boodschappen toch elke week koopt.
+
+Nog een automatisering van boodschappen is bijvoorbeeld Hello Fresh. Je moet het eten nog steeds zelf klaarmaken maar het proces van beslissen wat je gaat koken, welke ingrediënten die je nodig hebt en naar de supermarkt te gaan valt weg. Dit is ook heel handig voor mensen die niet weten wat ze moeten koken maar ook voor mensen die niet graag naar de supermarkt gaan.
+
+De huis automatisering is denk ik een van de bekendste voorbeelden. Iedereen kent de robotstofzuiger, robotgrasmaaier, google home, alexa enzovoort. Momenteel zijn er zelfs machines in de maak die uw was automatisch opvouwen.
+
+![Laundry folding](laundry.png)
+
+Een heel bekend voorbeeld waarbij mensen niet altijd aan automatisering denken is een domiciliëring. Heel veel mensen gebruiken dit en beseffen waarschijnlijk niet dat dit ook automatisering is aangezien er bij automatisering altijd aan technische snufjes wordt gedacht. Het is gewoon een geautomatiseerd manier om maandelijkse betalingen te doen.
+
+Er zijn veel dingen die behoren tot automatisering maar we vergeten dit vaak omdat we deze dingen vaak gebruiken.
+
+## Wat ga ik met automatisering doen?
+
+Ik ben vooral geïnteresseerd in alles wat met de huis automatisering te maken heeft. Er zijn heel veel verschillende dingen da je daarrond kan doen.
+Ik wil graag iets rond voice control/voice assistant, daarbij ga ik gebruik maken van de Google Nest Mini. Wat ik er precies rond ga doen weet ik nog niet. Hiervoor ga ik eerst goed onderzoeken voor wat je de Google Nest Mini kan gebruiken

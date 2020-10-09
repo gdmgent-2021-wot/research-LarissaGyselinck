@@ -2,7 +2,7 @@
   "name": "research",
   "version": "0.0.1",
   "description": "Automation",
-  "main": "index.md",
+  "main": "index.js",
   "authors": {
     "name": "Larissa Gyselinck",
     "email": "larigyse@student.arteveldehs.be"
