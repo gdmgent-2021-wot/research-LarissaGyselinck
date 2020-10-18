@@ -34,7 +34,7 @@ Nog een belangrijkrijk voordeel is de veiligheid, met domotica heb je veel meer 
 ## Wat kan je doen met automatisering?
 Je kan super veel dingen doen met automatisering. Niet iedereen gebruikt al veel automatisering maar eigenlijk kunnen veel dagdagelijkse dingen geautomatiseerd worden. Er bestaat bijvoorbeeld een app waarbij je sms'jes kan plannen, je schrijft je sms'je, geeft in wanneer deze precies verzend moet worden. Wanneer het sms'je verzonden is krijg je een melding.
 
-![Schedule sms app](sms.png)
+![Schedule sms app](./sms.png)
 
 Net zoals een sms'je inplannen kan je ook mails inplannen, dit verloopt op exact dezelfde manier als de smsjes. Het inplannen bestaat zelfs al voor tweets op twitter.
 
@@ -44,7 +44,7 @@ Nog een automatisering van boodschappen is bijvoorbeeld Hello Fresh. Je moet het
 
 De huis automatisering is denk ik een van de bekendste voorbeelden. Iedereen kent de robotstofzuiger, robotgrasmaaier, google home, alexa enzovoort. Momenteel zijn er zelfs machines in de maak die uw was automatisch opvouwen.
 
-![Laundry folding](laundry.png)
+![Laundry folding](./laundry.png)
 
 Een heel bekend voorbeeld waarbij mensen niet altijd aan automatisering denken is een domiciliëring. Heel veel mensen gebruiken dit en beseffen waarschijnlijk niet dat dit ook automatisering is aangezien er bij automatisering altijd aan technische snufjes wordt gedacht. Het is gewoon een geautomatiseerd manier om maandelijkse betalingen te doen.
 

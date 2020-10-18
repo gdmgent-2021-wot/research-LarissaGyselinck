@@ -1,5 +1,7 @@
 # Bronnen
 
+## Informatie
+
 [https://nl.wikipedia.org/wiki/Automatisering](https://nl.wikipedia.org/wiki/Automatisering)
 
 [https://www.amado-domotica.nl/wat-is-automatisering/](https://www.amado-domotica.nl/wat-is-automatisering/)
@@ -9,3 +11,7 @@
 [https://www.rovc.nl/kennisgebied/industriele-automatisering/](https://www.rovc.nl/kennisgebied/industriele-automatisering/)
 
 [https://www.grafistore.nl/proces-automatisering-van-grafische-bedrijven/](https://www.grafistore.nl/proces-automatisering-van-grafische-bedrijven/)
+
+## Project
+
+[https://www.instructables.com/Google-Home-Raspberry-Pi-Power-Strip/](https://www.instructables.com/Google-Home-Raspberry-Pi-Power-Strip/)

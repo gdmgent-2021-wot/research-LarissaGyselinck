@@ -1,13 +1,13 @@
 {
-  "name": "research",
+  "name": "automation",
   "version": "0.0.1",
-  "description": "Automation",
+  "description": "Research automation",
   "main": "index.js",
   "authors": {
     "name": "Larissa Gyselinck",
     "email": "larigyse@student.arteveldehs.be"
   },
-  "repository": "https://github.com/gdmgent-2021-wot/research-LarissaGyselinck/research",
+  "repository": "/automation",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"

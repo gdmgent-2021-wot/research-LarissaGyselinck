@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Vuepress
+# Config
 
 ## foo
 

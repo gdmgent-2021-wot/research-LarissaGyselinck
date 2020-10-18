@@ -38,17 +38,17 @@ module.exports = {
         link: '/automation/',
       },
       {
+        text: 'Project',
+        link: '/project/'
+      },
+      {
         text: 'Presentaties',
-        link: '/presentaties/',
+        link: '/presentaties/'
       },
       {
         text: 'Bronnen',
-        link: '/bronnen/',
-      },
-      {
-        text: 'Project',
-        link: '/project/',
-      },
+        link: '/bronnen/'
+      }
     ],
     // sidebar: {
     //   '/guide/': [
