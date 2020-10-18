@@ -4,7 +4,7 @@ sidebar: auto
 
 # Project
 
-Tutorial:
+Tutorial: [https://www.youtube.com/watch?v=g9Y559Y7Vl8](https://www.youtube.com/watch?v=g9Y559Y7Vl8)
 
 Voor mijn project heb ik gekozen om de Google Nest Mini aan te sluiten op de Raspberry Pi om een home automation te simuleren. Ikzelf heb thuis geen home automation producten, daarom ga ik mijn Sense HAT gebruiken als lamp. Door het commando "Hey Google, Turn my lamp on" te zeggen zou de Sense HAT moeten oplichten.
 
